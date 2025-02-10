@@ -9,7 +9,8 @@
 | Styling Index Page     | 27-Jan             | EJS Mate       |
 | Styling New Listing    | 27-Jan             |                |
 | Styling Edit Listing   | 27-Jan             |                |  
- 
+
+ # 52-Project-Phase-1-Part-c-
 # dev2 added error handling and joiValidation in project.
 
 | Content                | Created & Practiced | Libraries Used |
@@ -22,7 +23,9 @@
 | Error.ejs                | 30-Jan             |                |  
 | Joi Schema Validation    | 30-Jan             | Joi            |
 | JoiValidation middleware | 30-Jan             |                |  
-  
+
+
+ # 54-Project-Phase-2-Part-c- 
 # dev3 added relational db and their operations.
 
 
@@ -38,6 +41,7 @@
 | Deleting Listing rel   | 31-Jan             |                |  
 
 
+# 55-Project-Phase-2-Part-b-
 # dev4 set ExpressRouter to add listings and review routes in separate folder, router is prebuilt in Express.
 
 | Content                      | Created & Practiced | Libraries Used |
@@ -52,7 +56,7 @@
 |Signed Cookies                | 4-Feb             |                |  
   
 
-
+# 56-Project-Phase-2-Part-c-
 # dev5 implements Express-Sessions and connect-flash messages later used for authentication.
 
 
@@ -85,3 +89,19 @@
 |                              |                    |Passport-locals-mongoose |
   
 
+# 58. Project- Phase 2 (Part e)
+# dev7 branch added  authorization
+
+| Content                | Created & Practiced | Libraries Used |
+|------------------------      |--------------------|----------------|
+| connecting Login Route       | 8-Feb             | Mongoose       |
+| LogOut User                  | 8-Feb             | Method_override|
+| Login after SignUp           | 8-Feb             | Express        |
+| Post-Login Page              | 8-Feb             | EJS Mate       |
+| Listing Owner                | 8-Feb             | Joi            |
+| Starting with Authorization  | 8-Feb             | Cookie-Parser  |  
+| Listing Authorization        | 8-Feb             | Express-Sessions|
+| Revew Authorization          | 8-Feb             | Passport        |
+|                              |                   |Passport-locals  | 
+|                              |                   |Passport-locals-mongoose |
+  
